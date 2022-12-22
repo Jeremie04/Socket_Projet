@@ -1,0 +1,20 @@
+--Pour les Databases
+    dataCreate databaseName
+    use databaseName
+
+--Pour Table Manager
+    tableCreate NomTable:col1,col2,...
+    tableInsert into NomTable:data1,data2,...
+    tableDelete NomTable  (delete the data of the table)
+
+--Pour les fonctionnalites
+    select * from table
+    select * from table where col1=val and ...
+    select col1,col2... from table
+    select col1,col2... from table where col1=val and ...
+    join table1 with table2 on colonne=value
+    intersect tab1 with tab2
+    substract table1 with table2
+    divide tab1 with table2
+    Unify table1 with table2
+

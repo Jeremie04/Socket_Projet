@@ -1,0 +1,8 @@
+Ranto,15
+Finoana,16
+Matt,10.5
+Angoty,13.75
+Nancy,12.25
+Arena,17
+Serge,06
+Beast,14

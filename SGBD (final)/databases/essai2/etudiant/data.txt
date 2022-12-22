@@ -1,0 +1,8 @@
+Ranto,18,garcon,Madagascar
+Finoana,17,fille,Madagascar
+Matt,14,garcon,France
+Angoty,16,fille,Madagascar
+Nancy,18,fille,Madagascar
+Arena,16,fille,Madagascar
+Serge,25,garcon,Espagne
+Beast,30,garcon,Amerique
