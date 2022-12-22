@@ -5,6 +5,7 @@ voici les requêtes possibles
 
 
 --Pour Creation/Utilisation des Databases
+ 
     dataCreate databaseName
     use databaseName
 
