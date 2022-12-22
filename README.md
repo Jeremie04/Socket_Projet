@@ -9,7 +9,9 @@ voici les requêtes possibles
     use databaseName
 
 *le préfixe "table" à été ajouté pour se distinguer des autres requêtes*
+
 --Pour Création d'une table et insertion des données
+    
     tableCreate NomTable:col1,col2,...
     tableInsert into NomTable:data1,data2,...
     tableDelete NomTable  (delete the data of the table)
